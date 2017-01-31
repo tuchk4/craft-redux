@@ -1,10 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [CRAFT](https://github.com/stoyan/craft).
 
+---
+
+If you are interested in this template - let me know - tweet me [@tuchk4](https://twitter.com/tuchk4) or [file an issue](https://github.com/tuchk4/craft-redux/issues/new) here.
+
+I will add more features and tests.
+
+---
+
+```
+npm i -g crafttool
+craft MyAppRedux https://github.com/tuchk4/craft-redux/archive/master.zip
+```
+
+## General Resources
+
+Please read official Create React App guide and don't try to customize configs because I am sure that all your requirements are reachable in 100% without config customizing or ejecting.
+
 <img src="http://i.imgur.com/ULoeOL4.png" height="16"/> [Why I love Create React App and don't want to eject](https://medium.com/@valeriy.sorokobatko/why-i-love-create-react-app-e63b1be689a3)
-
-## Create React App General Resources
-
-Please read official guide and don't try to customize configs because I am sure that your requirements are reachable in 100% without config customizing or ejecting.
 
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 * [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
@@ -23,10 +36,11 @@ Please read official guide and don't try to customize configs because I am sure 
 
 >  Import [`set.prototype.tojson`](https://www.npmjs.com/package/set.prototype.tojson) and [`map.prototype.tojson`](https://www.npmjs.com/package/map.prototype.tojson) for correct view of [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) and [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) structures at Redux Chrome extension.
 
-
-### Create Redux Store
-
 ---
+
+App | Redux Chrome dev tools
+----|---
+![CRAFT Redux Screenshot](https://monosnap.com/file/X5rD3u7mubxRHpufXzIACNhzk5zVEs.png) | ![Alt text](https://monosnap.com/file/UWm0dSNy1zhO1dfey7kHtiezhPaZKk.png)
 
 ### `npm start`
 
