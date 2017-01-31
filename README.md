@@ -15,11 +15,13 @@ Please read official guide and don't try to customize configs because I am sure 
 
 ### Redux
 
-* logger
-* thunk
-* compose with Redux Chrome extension for development env.
+* [Redux Logger](https://github.com/evgenyrodionov/redux-logger)
+* [Redux Thunk](https://github.com/gaearon/redux-thunk)
+* compose with [Redux Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension) for development env.
 
-Import `set.prototype.tojson` and `map.prototype.tojson` for correct view of `Map` and `Set` structures at Redux Chrome extension. Link to Issue.
+> [Displaying Map in state #124](https://github.com/zalmoxisus/redux-devtools-extension/issues/124)
+
+>  Import [`set.prototype.tojson`](https://www.npmjs.com/package/set.prototype.tojson) and [`map.prototype.tojson`](https://www.npmjs.com/package/map.prototype.tojson) for correct view of [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) and [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) structures at Redux Chrome extension.
 
 
 ### Create Redux Store
