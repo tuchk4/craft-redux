@@ -9,7 +9,7 @@ I will add more features and tests.
 ---
 
 ```
-npm i -g crafttool
+npm -i -g craftool
 craft MyAppRedux https://github.com/tuchk4/craft-redux/archive/master.zip
 ```
 
