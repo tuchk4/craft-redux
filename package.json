@@ -22,5 +22,8 @@
     "start": "node -r ./scripts/env-dev ./node_modules/.bin/react-scripts start",
     "build": "node -r ./scripts/env-prod ./node_modules/.bin/react-scripts build",
     "test": "node -r ./scripts/env-dev ./node_modules/.bin/react-scripts test --env=jsdom"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   }
 }
