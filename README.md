@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tuchk4/craft-redux.svg)](https://greenkeeper.io/)
+
 If you are interested in this template - let me know - tweet me [@tuchk4](https://twitter.com/tuchk4) or [file an issue](https://github.com/tuchk4/craft-redux/issues/new) here.
 
 I will add more features and tests.
